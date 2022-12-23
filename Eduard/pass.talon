@@ -1,7 +1,7 @@
 pass one:
 	insert("Elpaamboliisal289!")
 pass two:
-	insert("FScbu6#P5H*$ik")
+	insert("Wnp*2UAupw$*@L")
 pass mice:
 	insert("Belkaidmice2020!")
 pass Berkleley:
